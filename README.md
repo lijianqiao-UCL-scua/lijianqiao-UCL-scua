@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lijianqiao-UCL-scua
 - 👀 I’m interested in python
-- 🌱 I’m currently learning meachine learing in dataques
+- 🌱 I’m currently learning meachine learing in dataquest& full-stack in codecademy
 - 💞️ I’m looking to collaborate on bike infrustion.
 - 📫 How to reach me ____ucfnilx@ucl.ac.uk
 
